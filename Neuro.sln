@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro.Perceptron", "Neuro.Perceptron\Neuro.Perceptron.csproj", "{0F223E92-1B01-4F8D-9A40-4601B6682BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro.Network", "Neuro.Network\Neuro.Network.csproj", "{22AA74BF-4DDE-4218-9BA9-2326768D57A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro.Functions", "Neuro.Functions\Neuro.Functions.csproj", "{E9779252-EC3C-4101-B491-5BFF1224A050}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F223E92-1B01-4F8D-9A40-4601B6682BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F223E92-1B01-4F8D-9A40-4601B6682BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F223E92-1B01-4F8D-9A40-4601B6682BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F223E92-1B01-4F8D-9A40-4601B6682BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AA74BF-4DDE-4218-9BA9-2326768D57A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AA74BF-4DDE-4218-9BA9-2326768D57A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AA74BF-4DDE-4218-9BA9-2326768D57A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AA74BF-4DDE-4218-9BA9-2326768D57A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9779252-EC3C-4101-B491-5BFF1224A050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9779252-EC3C-4101-B491-5BFF1224A050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9779252-EC3C-4101-B491-5BFF1224A050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9779252-EC3C-4101-B491-5BFF1224A050}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
