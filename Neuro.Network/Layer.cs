@@ -1,10 +1,11 @@
 using Neuro.Functions;
+using Neuro.Network.Neuron;
 
 namespace Neuro.Network;
 
 public class Layer
 {
-    public Neuron[] Neurons;
+    public Neuron.Neuron[] Neurons;
     public double[] Outputs { get; private set; }
     
     private readonly IFunction _activationFunction;
@@ -13,7 +14,7 @@ public class Layer
     {
         _activationFunction = activationFunction;
 
-        Neurons = new Neuron[neuronCount];
+        Neurons = new Neuron.Neuron[neuronCount];
         Outputs = new double[neuronCount];
 
         for (var i = 0; i < neuronCount; i++)

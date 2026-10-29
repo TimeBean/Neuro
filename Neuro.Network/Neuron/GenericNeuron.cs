@@ -1,6 +1,6 @@
 using Neuro.Functions;
 
-namespace Neuro.Network;
+namespace Neuro.Network.Neuron;
 
 public class GenericNeuron : Neuron
 {

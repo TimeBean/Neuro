@@ -1,5 +1,6 @@
 using System;
 using Neuro.Functions;
+using Neuro.Network.Neuron;
 
 namespace Neuro.Network
 {

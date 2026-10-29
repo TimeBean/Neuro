@@ -1,4 +1,4 @@
-﻿namespace Neuro.Network;
+﻿namespace Neuro.Network.Neuron;
 
 public abstract class Neuron
 {
