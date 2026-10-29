@@ -21,9 +21,9 @@ namespace Neuro.Perceptron
         private static readonly double[][] Targets =
         [
             [0.0],
-            [1.0],
-            [1.0],
-            [0.0]
+            [0.0],
+            [0.0],
+            [1.0]
         ];
 
         private static void Main(string[] args)
